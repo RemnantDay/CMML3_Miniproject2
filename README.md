@@ -159,6 +159,9 @@ loaded via a namespace (and not attached):
 
 ## Reference
 Bais, A.S. & Kostka, D. (2020) ‘scds: computational annotation of doublets in single-cell RNA sequencing data’, Bioinformatics, 36, 1150–1158.
+
 Germain, P.-L., Lun, A., Macnair, W. & Robinson, M.D. (2022) ‘Doublet identification in single-cell sequencing data’, F1000 research.
+
 McGinnis, C.S., Murrow, L.M. & Gartner, Z.J. (2019) ‘DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors’, Cell Systems, 8, 329-337.e4.
+
 Song, D., Wang, Q., Yan, G., Liu, T., Sun, T. & Li, J.J. (2024) ‘scDesign3 generates realistic in silico data for multimodal single-cell and spatial omics’, Nature Biotechnology, Nature Publishing Group, 42, 247–252.
