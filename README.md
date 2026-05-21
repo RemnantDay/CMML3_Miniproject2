@@ -3,7 +3,7 @@
 ## Introduction of the repository
 The original code for generating single-cell RNA-sequencing data using scDesign3, benchmark, and data visualization, as well as all relevant data, are available here. 
 
-## Overview
+## Abstract
 The presence of doublets is a key confounder in the analysis of single-cell RNA sequencing data. Here, we benchmarked five existing doublet-detection methods (scDblFinder, cxds, bcds, Hybrid and DoubletFinder) on simulated scRNA-seq data with varying doublet rates and sequencing depths. We discovered that all methods except cxds achieved high accuracy and would benefit more from increasing doublet rates than from increasing sequencing depths. scDblFinder outperformed in discovering heterotypic doublets with the highest computational efficiency.
 
 ## Method summary
